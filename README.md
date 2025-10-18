@@ -10,7 +10,7 @@
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
-<li>Buy the Logitech MX Master 3S ! </li>
+<li>💸 Buy the Logitech MX Master 3S ! </li>
 </ul>
 
 #### A little more about me
