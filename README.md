@@ -6,7 +6,7 @@
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-<li>🔭 Swiss developer in work-study / apprenticeship</li>
+<li>🔭 Swiss developer - Looking for work</li>
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
