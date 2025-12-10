@@ -12,7 +12,7 @@
 ### 🚀 Fun facts  
 <b>🔭 Currently: Looking for new challenges!</b>  
 🎧 <i>Now listening:</i> <b>Sorrow - My love</b><br/>
-🤝 Open for collaborations | 👾 Director @ <a href="https://CroustyCloud.fr/-seenkid">CroustyCloud.fr</a>  
+🤝 Open for collaborations
 💻 Building stuff with C#, JS, and more!  
 🖱️ Most recommended tool: Logitech MX Master 3S
 
