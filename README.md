@@ -10,7 +10,7 @@
 <div align="center">
 
 ### 🚀 Fun facts  
-<b>🔭 Currently: Employed as a Sys-Admin</b>  
+<b>🔭 Currently: Working with Celltis-Group</b>  
 🎧 <i>Now listening:</i> <b>Sorrow - My love</b><br/>
 🤝 Open for collaborations
 💻 Building stuff with C#, JS, and more!  
